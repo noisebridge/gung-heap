@@ -12,13 +12,12 @@ Did you assemble a project at Noisebridge? Spend 15-30 minutes writing a brief g
 
 ### What?
 
-- Things that belong here:
-    1. Software howtos - link to the project in your README.md
-    2. Hardware howtos
-    3. Projects (small and large)
+All projects small and large, software and hardware, technical, artistic, and otherwise.
 
-- Things that don't go here:
-    1. Noisebridge Infrastructure - put it in the [wiki](noisebridge.net)
+**Test:** Would others want to learn about your project and maybe try repeating it?
+
+Things that don't go here:
+1. Noisebridge Infrastructure - put it in the [wiki](noisebridge.net)
 
 
 ### Stuff You Need
