@@ -9,6 +9,10 @@ Did you assemble a project at Noisebridge? Spend 15-30 minutes writing a brief g
 1. To empower others to learn from your success
 2. To share knowledge with the people after you 
 
+"Gung Heap" is a quasi-[portmanteau](https://en.wikipedia.org/wiki/Portmanteau) of "Gung Ho" and "Dung Heap". It is inspired by the [Programmer Archaeologists](https://en.wikipedia.org/wiki/A_Deepness_in_the_Sky#Interstellar_culture) of the Qeng Ho, pronounced `Chung Ho` and rhyming with "Gung Ho". So, consider yourself a programmer archaeologist when you use this stuff.
+
+Also, the [census-wg](need a wiki link) is hoping to quantify the projects that Noisebridge facilitates. This record can be used to get more grants/money/tools.
+
 
 ### What?
 
@@ -52,5 +56,5 @@ Don't worry about getting things wrong, go for it.
 4. **make** a directory with the same name `your-project`
 5. **add** project files in the directory
 6. **zip** the `your-project` folder into `your-project.zip` and send it to `robbintt (at) gmail.com`
-    - Please include the subject line `Noisebridge gung heap submission: your-project`
+    - Please include the subject line `Noisebridge Gung Heap Submission: your-project`
 
