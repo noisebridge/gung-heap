@@ -16,8 +16,10 @@ All projects small and large, software and hardware, technical, artistic, and ot
 
 **Test:** Would others want to learn about your project and maybe try repeating it?
 
-Things that don't go here:
-1. Noisebridge Infrastructure - put it in the [wiki](noisebridge.net)
+
+### Things that do not go here
+
+Noisebridge Infrastructure - put it in the [wiki](noisebridge.net)
 
 
 ### Stuff You Need
