@@ -13,7 +13,7 @@ Did you assemble a project at Noisebridge? Spend 15-30 minutes writing a brief g
 ### Stuff You Need
 
 1. All the files that someone needs to perform your project in a directory named after your project: `your-project`
-2. A quick outline of how to perform your project in: `your-project/EXAMPLE.md`
+2. A quick outline of how to perform your project in: `your-project/README.md`
 
 
 ### Tips
