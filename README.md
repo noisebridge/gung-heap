@@ -1,25 +1,43 @@
 
-### Noisebridge Gung Heap
+## Noisebridge Gung Heap
 
-Have a project you assembled around the space?  Take 20 minutes to write it down and upload the project files according to the pattern here.
+Did you assemble a project at Noisebridge? Spend 15-30 minutes writing a brief guide.
 
 
 ### Why?
 
-So others can follow in your footsteps, and so Noisebridge can share its work with the world at large.
+1. To empower others to learn from your success
+2. To share knowledge with the people after you 
 
 
-#### How?
+### Stuff You Need
 
-Use the `sample project` as a template.  
+1. All the files that someone needs to perform your project in a directory named after your project: `your-project`
+2. A quick outline of how to perform your project: `your-project.md`
 
-1. Download a `zip` file of this repository
-    - Alternative: `fork` and `clone`
-2. Choose a project name. 
-    - Example: `your-project.md`
-3. Copy the `sample.md` file into `your-project.md`
-4. Make a directory with the same name `your-project`, and add your files to it
-5. Zip the whole `gung-heap` folder into `gung-heap.zip` and send it to Trent
-    - Alternative: `commit` and `push` your changes, then make a `pull request` from your `fork`
 
+### Tips
+
+1. Avoid long sentences and long explanations
+2. Assume your reader knows how to use all tools and software
+
+
+### Simple Walkthrough
+
+1. Use `example` and `example.md` as a template for `your-project` and `your-project.md`
+2. **make a pull request** (only do this if you don't need help)
+    - If you can't make a pull request, just use the detailed walkthrough
+
+
+### Detailed Walkthrough 
+
+Don't worry about getting things wrong, go for it.
+
+1. **download** a `zip` file of this repository
+2. **choose** a hyphenated project name (eg. `your-project`)
+3. **copy** `example.md` to `your-project.md`
+4. **make** a directory with the same name `your-project`
+5. **add** project files in the directory
+6. **zip** the `gung-heap` folder into `gung-heap.zip` and send it to `robbintt (at) gmail.com`
+    - Please include the subject line `Noisebridge gung heap submission: your-project`
 
