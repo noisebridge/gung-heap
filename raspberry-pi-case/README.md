@@ -3,7 +3,7 @@ Raspberry Pi Model B+, 2 B and 3 B Case -- Noisebridge Remix
 
 This is a simple acrylic lasercut case for the Raspberry Pi Model B+, 2 B and 3 B.
 
-![top](images/top.jpg)
+![top](images/noisebridge.jpg)
 
 Build Instructions
 ------------------
