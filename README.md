@@ -10,6 +10,17 @@ Did you assemble a project at Noisebridge? Spend 15-30 minutes writing a brief g
 2. To share knowledge with the people after you 
 
 
+### What?
+
+- Things that belong here:
+1. Software howtos - link to the project in your README.md
+2. Hardware howtos
+3. Projects (small and large)
+
+- Things that don't go here:
+1. Noisebridge Infrastructure - put it in the [wiki](noisebridge.net)
+
+
 ### Stuff You Need
 
 1. All the files that someone needs to perform your project in a directory named after your project: `your-project`
@@ -20,6 +31,7 @@ Did you assemble a project at Noisebridge? Spend 15-30 minutes writing a brief g
 
 1. Avoid long sentences and long explanations
 2. Assume your reader knows how to use all tools and software
+3. Infrastructure projects go on the wiki at [noisebridge.net](noisebridge.net)
 
 
 ### Simple Walkthrough
@@ -40,4 +52,10 @@ Don't worry about getting things wrong, go for it.
 5. **add** project files in the directory
 6. **zip** the `gung-heap` folder into `gung-heap.zip` and send it to `robbintt (at) gmail.com`
     - Please include the subject line `Noisebridge gung heap submission: your-project`
+
+
+### What about the wiki?
+
+The wiki is a datastore, definitely put stuff there. Things can go here and there.
+
 
