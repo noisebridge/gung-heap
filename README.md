@@ -51,6 +51,6 @@ Don't worry about getting things wrong, go for it.
 3. **copy** `example/README.md` to `your-project/README.md`
 4. **make** a directory with the same name `your-project`
 5. **add** project files in the directory
-6. **zip** the `gung-heap` folder into `gung-heap.zip` and send it to `robbintt (at) gmail.com`
+6. **zip** the `your-project` folder into `your-project.zip` and send it to `robbintt (at) gmail.com`
     - Please include the subject line `Noisebridge gung heap submission: your-project`
 
