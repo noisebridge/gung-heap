@@ -17,9 +17,9 @@ All projects small and large, software and hardware, technical, artistic, and ot
 **Test:** Would others want to learn about your project and maybe try repeating it?
 
 
-### Things that do not go here
+### What doesn't go here?
 
-Noisebridge Infrastructure - put it in the [wiki](noisebridge.net)
+Noisebridge Infrastructure - put it in the [wiki](https://noisebridge.net).
 
 
 ### Stuff You Need
@@ -31,8 +31,8 @@ Noisebridge Infrastructure - put it in the [wiki](noisebridge.net)
 ### Tips
 
 1. Avoid long sentences and long explanations
-2. Assume your reader knows how to use all tools and software
-3. Infrastructure projects go on the wiki at [noisebridge.net](noisebridge.net)
+2. Assume your reader knows the basics of all tools and software
+    - Do include special techniques and special knowledge (e.g. how to get to a deeply hidden menu item)
 
 
 ### Simple Walkthrough
