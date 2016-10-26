@@ -1,7 +1,7 @@
 Raspberry Pi Model B+, 2 B and 3 B Case -- Noisebridge Remix
 ==================================
 
-This is a simple acrylic lasercut case for the Raspberry Pi Model B+, 2 B and 3 B.
+This is a simple acrylic lasercut case for the Raspberry Pi Model B+, 2 B and 3 B. The source is from [diy-electronics](https://github.com/lazzarello/raspberrypi-b-plus-case)
 
 ![top](images/noisebridge.jpg)
 
@@ -22,12 +22,6 @@ BOM
 - 3mm acryl
 - 4x M2.5 10mm screws
 - 4x M2.5 screw nuts
-
-Visicut color-mapping
----------------------
-
-If you use Visicut (https://github.com/t-oster/VisiCut) you can find a working color-mapping under 
-[visicut/raspberrypi-b-plus-case.xml](visicut/raspberrypi-b-plus-case.xml)
 
 License
 -------
