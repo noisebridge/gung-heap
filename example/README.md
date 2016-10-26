@@ -61,6 +61,6 @@ Replace this with some text and make a `Part 2` outline.
 
 These resources were helpful for understanding and/or performing the project.
 
-1. [Example Link](www.example.com)
-2. [Noisebridge](www.noisebridge.net)
-3. [Gung Heap](www.github.com/Noisebridge/gung-heap/)
+1. [Example Link](http://www.example.com)
+2. [Noisebridge](http://www.noisebridge.net)
+3. [Gung Heap](http://www.github.com/Noisebridge/gung-heap/)

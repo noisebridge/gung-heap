@@ -9,6 +9,22 @@ Did you assemble a project at Noisebridge? Spend 15-30 minutes writing a brief g
 1. To empower others to learn from your success
 2. To share knowledge with the people after you 
 
+"Gung Heap" is a quasi-[portmanteau](https://en.wikipedia.org/wiki/Portmanteau) of "Gung Ho" and "Dung Heap". It is inspired by the [Programmer Archaeologists](https://en.wikipedia.org/wiki/A_Deepness_in_the_Sky#Interstellar_culture) of the Qeng Ho, pronounced `Chung Ho` and rhyming with "Gung Ho". So, consider yourself a programmer archaeologist when you use this stuff.
+
+Also, the [census-wg](need a wiki link) is hoping to quantify the projects that Noisebridge facilitates. This record can be used to get more grants/money/tools.
+
+
+### What?
+
+All projects small and large, software and hardware, technical, artistic, and otherwise.
+
+**Test:** Would others want to learn about your project and maybe try repeating it?
+
+
+### What doesn't go here?
+
+Noisebridge Infrastructure - put it in the [wiki](https://noisebridge.net).
+
 
 ### Stuff You Need
 
@@ -19,7 +35,8 @@ Did you assemble a project at Noisebridge? Spend 15-30 minutes writing a brief g
 ### Tips
 
 1. Avoid long sentences and long explanations
-2. Assume your reader knows how to use all tools and software
+2. Assume your reader knows the basics of all tools and software
+    - Do include special techniques and special knowledge (e.g. how to get to a deeply hidden menu item)
 
 
 ### Simple Walkthrough
@@ -38,6 +55,6 @@ Don't worry about getting things wrong, go for it.
 3. **copy** `example/README.md` to `your-project/README.md`
 4. **make** a directory with the same name `your-project`
 5. **add** project files in the directory
-6. **zip** the `gung-heap` folder into `gung-heap.zip` and send it to `robbintt (at) gmail.com`
-    - Please include the subject line `Noisebridge gung heap submission: your-project`
+6. **zip** the `your-project` folder into `your-project.zip` and send it to `robbintt (at) gmail.com`
+    - Please include the subject line `Noisebridge Gung Heap Submission: your-project`
 
