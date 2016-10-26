@@ -54,9 +54,3 @@ Don't worry about getting things wrong, go for it.
 6. **zip** the `gung-heap` folder into `gung-heap.zip` and send it to `robbintt (at) gmail.com`
     - Please include the subject line `Noisebridge gung heap submission: your-project`
 
-
-### What about the wiki?
-
-The wiki is a datastore, definitely put stuff there. Things can go here and there.
-
-
