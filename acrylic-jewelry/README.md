@@ -28,5 +28,5 @@ Use standard jewelry findings to put your necklace and earrings together. I've g
 #### Additional Resources
 1. [Rectangle laser cutting file](rectangle_lariat.svg)
 2. [Triangle laser cutting file](triangle_lariat.svg)
-3. [Curved spike laser cutting file](curved_spike_lariat.svg)
+3. [Curved spike laser cutting file](curve_spike_lariat.svg)
 
