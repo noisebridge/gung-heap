@@ -11,6 +11,12 @@ Throughout this document replace or delete any text that doesn't match your proj
 #### Project Status: completed/incomplete/failed (pick one)
 
 
+#### Author: (your name and/or contact info)
+
+
+#### Date Added: Month Day, Year
+
+
 #### Tools
 
 A list of tools that were used to do the work.
