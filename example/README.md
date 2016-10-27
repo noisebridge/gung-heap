@@ -17,6 +17,13 @@ Throughout this document replace or delete any text that doesn't match your proj
 #### Date Added: Month Day, Year
 
 
+#### Bill of Materials
+
+1. 3mm Acrylic Sheet (5"x5" minimum size)
+2. 4x M2.5 10mm screws
+3. 4x M2.5 screw nuts
+
+
 #### Tools
 
 A list of tools that were used to do the work.
