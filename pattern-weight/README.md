@@ -21,7 +21,7 @@ Pattern weights are really useful for weighing down fabric or pattern paper when
 
 ![cardstock pattern template](images/pattern.gif)
 
-Laser the design on cardstock! [Follow my instructable!](www.instructables.com/id/Sew-Your-Own-Pattern-Weights/)
+Laser the design on cardstock! Follow my instructable! [PDF](Sew-Your-Own-Pattern-Weights.pdf) or [on the web](http://www.instructables.com/id/Sew-Your-Own-Pattern-Weights/)
 
 #### Additional Resources
 1. [PDF pattern](pattern_weight.pdf)
