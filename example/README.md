@@ -8,6 +8,9 @@ A second paragraph about the project. Or delete this line.
 Throughout this document replace or delete any text that doesn't match your project.
 
 
+#### Project Status: completed/incomplete/failed (pick one)
+
+
 #### Tools
 
 A list of tools that were used to do the work.
