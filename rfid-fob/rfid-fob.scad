@@ -4,6 +4,11 @@ rfid_width = 9.47;
 rfid_length = 15.67;
 rfid_depth = 1.14;
 
+// microsd card:
+// rfid_width = 12.0;
+// rfid_length = 16.0;
+// rfid_depth = 1.5;
+
 hole_length = min_border * 2;
 
 fob_width = min_border * 2 + rfid_width;
@@ -26,6 +31,13 @@ difference () {
 }
 
 
-translate([15, 0, 0]) {
-    cube([rfid_width, rfid_length, min_border]);
+translate([rfid_width * 2, 0, 0]) {
+    difference() {
+        cube([rfid_width - 0.5,
+            rfid_length - 0.5,
+            min_border]);
+        translate([rfid_width / 2, 0, 0]) {
+            cylinder(d=4.0, h=min_border);
+        }
+    }
 }
