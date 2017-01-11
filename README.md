@@ -39,14 +39,14 @@ Noisebridge Infrastructure - put it in the [wiki](https://noisebridge.net).
     - Do include special techniques and special knowledge (e.g. how to get to a deeply hidden menu item)
 
 
-### Simple Walkthrough
+### Simple Github Walkthrough
 
 1. Use `example` and `example/README.md` as a template for `your-project` and `your-project/README.md`
 2. **make a pull request** (only do this if you don't need help)
     - If you can't make a pull request, just use the detailed walkthrough
 
 
-### Detailed Walkthrough 
+### Github-Avoidant Walkthrough 
 
 Don't worry about getting things wrong, go for it.
 
